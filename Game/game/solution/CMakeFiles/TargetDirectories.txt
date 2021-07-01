@@ -1,0 +1,3 @@
+/Users/Dmitry/Desktop/CG/computer-graphics/msu_cmc_cg_2021/template1_cpp/CMakeFiles/rebuild_cache.dir
+/Users/Dmitry/Desktop/CG/computer-graphics/msu_cmc_cg_2021/template1_cpp/CMakeFiles/edit_cache.dir
+/Users/Dmitry/Desktop/CG/computer-graphics/msu_cmc_cg_2021/template1_cpp/CMakeFiles/main.dir
